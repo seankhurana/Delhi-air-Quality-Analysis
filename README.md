@@ -20,7 +20,7 @@ Code Optimization 🛠️: Regularly optimizing the codebase for improved effici
 
 Dataset Enhancement 📑: Enriching the dataset with new variables to keep the analytics model robust and reflective of dynamic air quality conditions.
 
-File Updates 🔄: Periodically updating data files to include the latest information, ensuring relevance and accuracy.
+File Updates 🔄: I will periodically update data files with the latest information to ensure relevance and accuracy. Additionally, I will be uploading files and datasets soon.
 
 Get Involved! 🤝
 Feel free to contribute, provide feedback, or raise issues. Together, let's pave the way for cleaner, healthier air in Delhi! 🌿
